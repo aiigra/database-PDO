@@ -1,0 +1,16 @@
+{
+    "name": "nw-city/database-PDO",
+    "homepage": "https://github.com/aiigra/database-PDO",
+    "authors": [
+        {
+            "name": "Andrey Pavlov",
+            "email": "aiigra@bk.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DevStart\\": "src/"
+        }
+    },
+    "require": {}
+}
